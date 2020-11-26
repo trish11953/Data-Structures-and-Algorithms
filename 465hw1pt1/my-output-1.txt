@@ -1,0 +1,1 @@
+Enter number of elements and values of array 1 : Enter number of elements and values of array 2 : 
